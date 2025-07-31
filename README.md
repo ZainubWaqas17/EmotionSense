@@ -1,4 +1,4 @@
-# EmotionSense – Real-Time Emotion Detection from Text using NLP & Machine Learning
+# EmotionSense - Real Time Emotion Detection from Text using NLP & Machine Learning
 
 **EmotionSense** is a full-stack web application that detects and classifies human emotions from user-inputted text in real time. Using Natural Language Processing (NLP) and machine learning, the app maps words to emotions like **joy**, **anger**, **fear**, and **sadness**—providing an intuitive way to understand emotional states through text.
 
